@@ -84,3 +84,22 @@ tests/
 4 - Execute os testes com Maven/Gradle no projeto Java:
 
 mvn test
+
+
+Observações
+
+- Certifique-se que o relatório XML do Pitest esteja disponível em pitest_reports/mutations.xml.
+
+- O script suporta múltiplas mutações e gera arquivos separados para cada método afetado.
+
+- É possível personalizar o prompt_template no config.yaml para ajustar o estilo dos testes gerados.
+
+
+Licença
+
+MIT License
+
+
+Se você quiser, posso também gerar uma **versão mais visual com badges, instruções rápidas de setup do WSL e da LLM**, deixando o README mais profissional e pronto para GitHub.  
+
+Quer que eu faça isso?
