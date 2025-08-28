@@ -98,8 +98,3 @@ Observações
 Licença
 
 MIT License
-
-
-Se você quiser, posso também gerar uma **versão mais visual com badges, instruções rápidas de setup do WSL e da LLM**, deixando o README mais profissional e pronto para GitHub.  
-
-Quer que eu faça isso?
